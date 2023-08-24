@@ -1,12 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=e600ac&background=00000000&width=500&height=120&lines=++Hello!+I'm+Abdullah+Mohamed+🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=abcdef&background=00000000&width=500&height=120&lines=++Hello!+I'm+Abdullah+Mohamed+🌻)](https://git.io/typing-svg)
 <img align="center" alt="Coding" width="300" src="https://media.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.giff)">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=e600ac&background=00000000&width=500&height=120&lines=I'm+Software+Engineering+🌻)](https://git.io/typing-svg)
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" /></a>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>🙋‍♂️ Thank you for visiting my GitHub profile! </h3>
 
 <div align="center"> <img src="https://w0.peakpx.com/wallpaper/872/549/HD-wallpaper-lance-concept-night-work-home-woker-working-at-night-programmer.jpg"> </div>
-<h1> Objective</h1>
+
+# ***Objective:***
 <h4  align="center">
 Highly motivated and adaptable professional thriving under pressure. Strong learner with excellent time
 management skills, actively seeking opportunities for continuous improvement and delivering excellent results.
@@ -24,7 +25,7 @@ management skills, actively seeking opportunities for continuous improvement and
 
 - 📫 How to reach me **abdallahmohamed4197@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+# ***Connect with me:***
 <p align="left">
 <a href="https://www.linkedin.com/in/abdallah-mohamed-256290258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
 <a href="https://twitter.com/Abdallah412002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tech_makers1" height="30" width="40" /></a>
@@ -33,16 +34,28 @@ management skills, actively seeking opportunities for continuous improvement and
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# ***Languages and Tools***:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+# ***Github Stats***  
+<table><tr><td valign="top" width="50%">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahmohamedd&show_icons=true&locale=en&layout=compact" alt="abdallahmohamedd" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahmohamedd&type=horizontal&theme=dark" align="left" style="width: 100%" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahmohamedd&show_icons=true&locale=en" alt="abdallahmohamedd" /></p>
+</td><td valign="top" width="50%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahmohamedd&" alt="abdallahmohamedd" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahmohamedd&type=horizontal&theme=dark" alt="abdallahmohamedd" align="left" style="width: 100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmohamedd" alt="abdallahmohamedd" /></a> 
+</td></tr></table>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahmohamedd&type=horizontal&theme=dark" alt="abdallahmohamedd" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmohamedd&type=horizontal&theme=dark" alt="abdallahmohamedd" /></a> 
 </p>
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
